@@ -1,0 +1,52 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+main{background:url("image/Без имени-2.jpg")}
+main{
+    height: 580px;
+    margin: 0px;
+}
+.logo
+{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.logo1
+{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.kk
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.center
+{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.center h1
+{
+    color: aqua;
+    margin-left: 350px;
+    margin-top: 300px;
+}
+
+a
+{
+    color: black;
+    margin-left: 12px;
+    font-size: 20px;
+}
